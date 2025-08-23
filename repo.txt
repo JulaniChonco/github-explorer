@@ -1,3 +1,1 @@
-# Paste your GitHub repository link here before submitting:
-# Example:
-# https://github.com/<your-username>/github-explorer
+https://github.com/JulaniChonco/github-explorer 
