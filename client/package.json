@@ -1,0 +1,30 @@
+{
+  "name": "github-explorer-client",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React frontend (Vite) for GitHub Explorer capstone.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.0.1",
+    "@vitejs/plugin-react": "^4.3.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jsdom": "^24.1.0",
+    "whatwg-fetch": "^3.6.20",
+    "vite": "^5.4.2"
+  }
+}
