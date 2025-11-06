@@ -64,7 +64,10 @@ Place screenshots in `docs/screenshots/` and reference them here:
 - `docs/screenshots/repo-list.png`
 
 ## Deployment
-- Deploy to **Vercel**, **Netlify**, or **GitHub Pages**.
+The GitHub Explorer web app can be deployed easily to modern static hosts.
+
+- **Live Site:** [https://github-explorer-jvchonco.netlify.app](https://github-explorer-jvchonco.netlify.app)
+- **API:** GitHub REST API v3 (public)
 - Remember to set your environment variable (token) on the host if used.
 - **Deployed link:** https://<your-live-site>
 
